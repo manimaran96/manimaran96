@@ -17,3 +17,5 @@ Kotlin, Java, Android(Mobile & TV), Flutter, Python, SQL, HTML, CSS, Bootstrap, 
 
 | <a href="https://github.com/manimaran96/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manimaran96&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Manimaran's github stats" /></a> | <a href="https://github.com/manimaran96/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manimaran96&layout=compact&theme=buefy&hide_border=true&langs_count=8&exclude_repo=wikiAudio-Test,bootstrap-datepicker,UpdatableMap" /></a> |
 | ------------- | ------------- |
+
+[![@manimaran's Holopin board](https://holopin.me/manimaran)](https://holopin.io/@manimaran)
